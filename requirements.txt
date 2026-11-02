@@ -1,0 +1,13 @@
+﻿# Core application
+streamlit>=1.40
+pandas>=2.2,<4
+numpy>=1.26,<3
+joblib>=1.4
+
+# Machine learning
+scikit-learn==1.7.2
+shap>=0.46
+
+# Visualizations
+matplotlib>=3.8
+seaborn>=0.13
